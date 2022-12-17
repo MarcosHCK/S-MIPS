@@ -2652,8 +2652,8 @@
       <a name="label" val="CurrentAddress"/>
     </comp>
   </circuit>
-  <circuit name="IJR-Test">
-    <a name="circuit" val="IJR-Test"/>
+  <circuit name="Decoder.Opcode">
+    <a name="circuit" val="Decoder.Opcode"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
@@ -2962,8 +2962,8 @@
     </comp>
     <comp lib="1" loc="(240,640)" name="NOT Gate"/>
   </circuit>
-  <circuit name="F-Selector">
-    <a name="circuit" val="F-Selector"/>
+  <circuit name="Decoder.Functions">
+    <a name="circuit" val="Decoder.Functions"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
